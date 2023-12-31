@@ -1,5 +1,3 @@
-The app lets users track and review movies with details like title, genre, and release year. Users can add ratings, rankings, and search for movies by name or ranking. Exceptions are raised for adding a movie with a blank title or an out-of-bounds ranking.
-
 How to use the file:
 
 1. Download the Zip File:
